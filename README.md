@@ -1,5 +1,5 @@
 # Madeline Mott
-Curriculum Vitae
+<h6>Curriculum Vitae
 
 Contact Information <br>
 maddiemott22@vt.edu <br>
