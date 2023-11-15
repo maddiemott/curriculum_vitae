@@ -1,2 +1,2 @@
-# curriculum_vitae
-Professional History, Education, &amp; Research Experience
+# Madeline Mott
+Curriculum Vitae
