@@ -1,9 +1,9 @@
 # Madeline Mott
 Curriculum Vitae
 
-Contact Information
-maddiemott22@vt.edu
-mdmott99@gmail.com
+Contact Information ('<br>')
+maddiemott22@vt.edu ('<br>')
+mdmott99@gmail.com ('<br>')
 (904) 206-1758
 
 
